@@ -1,0 +1,120 @@
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=100)
+Accuracy: 37.6883%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=110)
+Accuracy: 38.3888%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=120)
+Accuracy: 38.0385%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=120)
+Accuracy: 38.0035%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=121)
+Accuracy: 35.7618%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=122)
+Accuracy: 36.8827%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=123)
+Accuracy: 37.5832%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=124)
+Accuracy: 37.6883%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=125)
+Accuracy: 38.3187%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=126)
+Accuracy: 36.9527%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=127)
+Accuracy: 38.0385%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=128)
+Accuracy: 37.8984%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=129)
+Accuracy: 38.1786%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=130)
+Accuracy: 37.0928%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=131)
+Accuracy: 38.1436%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=132)
+Accuracy: 37.8634%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=133)
+Accuracy: 38.6690%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=134)
+Accuracy: 37.1278%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=135)
+Accuracy: 38.3538%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=136)
+Accuracy: 37.2329%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=137)
+Accuracy: 38.0035%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=138)
+Accuracy: 39.6147%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=139)
+Accuracy: 38.8441%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=140)
+Accuracy: 36.9877%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=150)
+Accuracy: 38.0385%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=160)
+Accuracy: 38.2487%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=170)
+Accuracy: 38.8792%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=180)
+Accuracy: 36.1471%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=190)
+Accuracy: 38.0385%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(n_estimators=200)
+Accuracy: 37.1278%
+-------------------------------------------------------------------

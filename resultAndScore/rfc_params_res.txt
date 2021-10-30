@@ -1,0 +1,61 @@
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=1)
+Accuracy: 42.1716%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=2)
+Accuracy: 42.2767%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=3)
+Accuracy: 43.1173%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=4)
+Accuracy: 42.8021%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=5)
+Accuracy: 42.5569%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=6)
+Accuracy: 42.2767%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=7)
+Accuracy: 42.4518%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=8)
+Accuracy: 42.4168%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=9)
+Accuracy: 41.5762%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=10)
+Accuracy: 42.9422%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=11)
+Accuracy: 42.1716%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=12)
+Accuracy: 42.7320%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=13)
+Accuracy: 43.1524%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=14)
+Accuracy: 44.1681%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier(min_samples_leaf=15)
+Accuracy: 43.1173%
+-------------------------------------------------------------------
