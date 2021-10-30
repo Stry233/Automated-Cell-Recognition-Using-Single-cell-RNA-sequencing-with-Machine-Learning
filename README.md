@@ -41,14 +41,13 @@ Although scRNA-seq technology has gained further capability to capture different
 ## Contributors
 
 <!-- Fill in the list of contributors to the project here, usually a list, of course, you can also use pictures instead. -->
-###Yuetian Chen
-Rensselaer Polytechnic Institute, 110 8th Street, Troy, NY, United States, 12180 (email: cheny63@rpi.edu)
-
-###Chenqi Xu
-Southern University of Science and Technology, Shenzhen, China, 518055
-
-###Yiyang Cao
-The University of British Columbia, Vancouver, BC, Canada, V6T 1Z4
+<details>
+  <summary>Click me to Open/Close the contributors listing</summary>
+  
+- [Yuetian Chen](https://github.com/stry233) - Rensselaer Polytechnic Institute, 110 8th Street, Troy, NY, United States, 12180 (email: cheny63@rpi.edu)
+- [Chenqi Xu](https://github.com/lightingtom) - Southern University of Science and Technology, Shenzhen, China, 518055
+- [Yiyang Cao] - The University of British Columbia, Vancouver, BC, Canada, V6T 1Z4
+  
 <span id="nav-10"></span>
 
 ## Special Thanks
