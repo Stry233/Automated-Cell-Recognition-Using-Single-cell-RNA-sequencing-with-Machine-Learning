@@ -17,25 +17,25 @@ This project(with thesis published soon) investigates and summarizes the superio
 
 </details>
 
-<span id="nav-3"></span>
+<span id="nav-1"></span>
 
 ## Introductions
 
 <!-- Fill in the detailed introduction about your project here -->
 
-<span id="nav-3-1"></span>
+<span id="nav-2"></span>
 
 ### Background
 
 <!-- Fill in the project creation background here -->
 Although scRNA-seq technology has gained further capability to capture differential information at the cellular level compared to earlier transcriptome analysis methods including bulk RNA-seq, the cross-cellular technical errors arising from its data acquisition phase and other limitations provide challenges for researchers to maintain a balance between data pre-processing and information retention. Based on this, several relatively mature schemes including t-SNE, PCA, and multiple algorithm combinations on data dimension reduction was explored and tested in this report, and evaluated the accuracy obtained by machine-learning-based classifiers for cell classification tasks as a base metric for comprehensive comparison and evaluation.
-<span id="nav-4"></span>
+<span id="nav-2-1"></span>
 
 ## Graphics
 
 <!-- Place the demo of your project here, which can be a specific visit address, picture screenshot, Gif or video, etc. -->
 
-<span id="nav-5"></span>
+<span id="nav-3"></span>
 
 
 ## Contributors
@@ -46,15 +46,16 @@ Although scRNA-seq technology has gained further capability to capture different
   
 - [Yuetian Chen](https://github.com/stry233) - Rensselaer Polytechnic Institute, 110 8th Street, Troy, NY, United States, 12180 (email: cheny63@rpi.edu)
 - [Chenqi Xu](https://github.com/lightingtom) - Southern University of Science and Technology, Shenzhen, China, 518055
-- [Yiyang Cao] - The University of British Columbia, Vancouver, BC, Canada, V6T 1Z4
-  
-<span id="nav-10"></span>
+- Yiyang Cao - The University of British Columbia, Vancouver, BC, Canada, V6T 1Z4
+
+</details>
+<span id="nav-4"></span>
 
 ## Special Thanks
 
 <!-- Fill in the list of special thanks here, which can be anything or a person. -->
 This research was undertaken as part of the CIS - Introduction to Machine Learning "Our Body" Project. Thanks to Prof. Ziv Bar-Joseph for his guidance and instruction in dataset pre-processing and paper refinement.
-<span id="nav-15"></span>
+<span id="nav-5"></span>
 
 ## License
 
