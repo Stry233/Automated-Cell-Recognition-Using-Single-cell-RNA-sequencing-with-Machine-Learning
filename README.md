@@ -37,7 +37,7 @@ Although scRNA-seq technology has gained further capability to capture different
 ## Graphics
 
 <!-- Place the demo of your project here, which can be a specific visit address, picture screenshot, Gif or video, etc. -->
-
+![avatar](https://raw.githubusercontent.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning/main/visualization/AE2DVIS.JPG)
 <span id="nav-3"></span>
 
 
