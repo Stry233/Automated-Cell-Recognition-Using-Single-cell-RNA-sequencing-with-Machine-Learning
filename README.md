@@ -1,7 +1,7 @@
 # Automated Cell Recognition Using Single-cell RNA sequencing with Machine Learning
 <p align="center">
-  <a href="https://github.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning?style=Stars"/></a>
-  <a href="https://github.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning"><img alt="GitHub" src="https://img.shields.io/github/stars/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning?style=plastic"/></a>
+  <a href="https://github.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning?style=plastic"/></a>
+  <a href="https://github.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning"><img alt="Stars" src="https://img.shields.io/github/stars/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning?style=plastic"/></a>
   <a href="https://github.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning"><img alt="Language Use" src="https://img.shields.io/github/languages/count/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning?style=plastic"/></a>
 </p>
 This project(with thesis published soon) investigates and summarizes the superiority and limitations of different dimensionality reduction schemes as well as classification methods in specific single-cell RNA sequencing (scRNA-seq) data sets. 
