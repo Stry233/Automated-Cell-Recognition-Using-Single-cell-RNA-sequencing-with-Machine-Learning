@@ -37,16 +37,12 @@ Although scRNA-seq technology has gained further capability to capture different
 <span id="nav-2-1"></span>
 
 ## Graphics
-
-<!-- Place the demo of your project here, which can be a specific visit address, picture screenshot, Gif or video, etc. -->
 ![avatar](https://raw.githubusercontent.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning/main/visualization/AE2DVIS.JPG)
 ![avatar](https://raw.githubusercontent.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning/main/visualization/PCATSNE2D_LABEL.JPG)
 <span id="nav-3"></span>
 
 
 ## Contributors
-
-<!-- Fill in the list of contributors to the project here, usually a list, of course, you can also use pictures instead. -->
 <details>
   <summary>Click me to Open/Close the contributors listing</summary>
   
@@ -58,11 +54,9 @@ Although scRNA-seq technology has gained further capability to capture different
 <span id="nav-4"></span>
 
 ## Special Thanks
-
 <!-- Fill in the list of special thanks here, which can be anything or a person. -->
 This research was undertaken as part of the CIS - Introduction to Machine Learning "Our Body" Project. Thanks to Prof. Ziv Bar-Joseph for his guidance and instruction in dataset pre-processing and paper refinement.
 <span id="nav-5"></span>
 
 ## License
-
 [License MIT](LICENSE)
