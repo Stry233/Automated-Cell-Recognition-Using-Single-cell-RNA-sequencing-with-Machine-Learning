@@ -1,0 +1,1136 @@
+Dimension Reduction: PCA(n=10) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 13.9755%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=11) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 16.4623%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=12) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 20.5604%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=13) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 21.3310%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=14) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 21.6112%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=15) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 25.0788%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=16) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 30.7881%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=17) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 32.9947%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=18) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 35.8669%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=19) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 39.8249%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=20) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 39.2644%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=21) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 38.2487%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=22) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 38.7741%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=23) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 38.9842%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=24) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 36.8476%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=25) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 36.2522%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=26) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 36.3923%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=27) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 37.5482%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=28) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 39.9299%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=29) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 39.7898%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=30) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 39.6848%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=31) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 37.4081%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=32) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 36.0771%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=33) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 36.1121%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=34) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 36.2522%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=35) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 35.3415%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=36) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 33.8004%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=37) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 37.5131%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=38) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 33.6953%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=39) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 34.5009%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=40) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 30.1576%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=41) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 33.6953%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=42) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 37.0928%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=43) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 30.8581%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=44) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 35.3415%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=45) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 40.1401%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=46) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 34.6410%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=47) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 34.5359%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=48) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 33.6602%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=49) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 34.4308%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 35.0263%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=51) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 37.2329%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=52) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 40.1051%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=53) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 34.4658%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=54) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 38.3538%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=55) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 31.4536%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=56) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 37.5482%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=57) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 29.6673%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=58) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 31.6287%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=59) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 32.0490%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=60) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 32.1191%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=61) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 30.7180%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=62) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 32.9247%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=63) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 38.5639%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=64) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 33.5552%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=65) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 32.8196%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=66) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 28.8967%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=67) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 32.2242%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=68) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 31.3835%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=69) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 36.8476%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=70) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 32.5744%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=71) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 37.0928%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=72) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 34.1506%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=73) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 39.3695%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=74) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 37.5131%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=75) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 28.9317%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=76) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 36.9877%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=77) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 28.5114%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=78) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 32.8196%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=79) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 37.1629%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=80) + TSNE
+Classifier: RandomForestClassifier
+Accuracy: 34.9212%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=10)
+Classifier: RandomForestClassifier
+Accuracy: 23.3275%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=11)
+Classifier: RandomForestClassifier
+Accuracy: 24.0981%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=12)
+Classifier: RandomForestClassifier
+Accuracy: 26.7250%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=13)
+Classifier: RandomForestClassifier
+Accuracy: 28.5464%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=14)
+Classifier: RandomForestClassifier
+Accuracy: 31.3835%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=15)
+Classifier: RandomForestClassifier
+Accuracy: 33.1349%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=16)
+Classifier: RandomForestClassifier
+Accuracy: 34.1156%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=17)
+Classifier: RandomForestClassifier
+Accuracy: 32.8196%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=18)
+Classifier: RandomForestClassifier
+Accuracy: 38.2137%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=19)
+Classifier: RandomForestClassifier
+Accuracy: 41.1559%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=20)
+Classifier: RandomForestClassifier
+Accuracy: 41.0858%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=21)
+Classifier: RandomForestClassifier
+Accuracy: 40.1751%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=22)
+Classifier: RandomForestClassifier
+Accuracy: 39.9299%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=23)
+Classifier: RandomForestClassifier
+Accuracy: 41.1559%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=24)
+Classifier: RandomForestClassifier
+Accuracy: 40.5954%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=25)
+Classifier: RandomForestClassifier
+Accuracy: 41.1909%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=26)
+Classifier: RandomForestClassifier
+Accuracy: 41.0508%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=27)
+Classifier: RandomForestClassifier
+Accuracy: 41.1909%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=28)
+Classifier: RandomForestClassifier
+Accuracy: 41.2259%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=29)
+Classifier: RandomForestClassifier
+Accuracy: 40.9107%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=30)
+Classifier: RandomForestClassifier
+Accuracy: 39.9299%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=31)
+Classifier: RandomForestClassifier
+Accuracy: 40.7356%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=32)
+Classifier: RandomForestClassifier
+Accuracy: 40.3152%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=33)
+Classifier: RandomForestClassifier
+Accuracy: 40.2802%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=34)
+Classifier: RandomForestClassifier
+Accuracy: 41.3660%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=35)
+Classifier: RandomForestClassifier
+Accuracy: 41.5061%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=36)
+Classifier: RandomForestClassifier
+Accuracy: 42.8371%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=37)
+Classifier: RandomForestClassifier
+Accuracy: 40.8406%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=38)
+Classifier: RandomForestClassifier
+Accuracy: 40.8056%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=39)
+Classifier: RandomForestClassifier
+Accuracy: 42.4869%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=40)
+Classifier: RandomForestClassifier
+Accuracy: 41.8214%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=41)
+Classifier: RandomForestClassifier
+Accuracy: 40.6305%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=42)
+Classifier: RandomForestClassifier
+Accuracy: 41.8914%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=43)
+Classifier: RandomForestClassifier
+Accuracy: 40.8406%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=44)
+Classifier: RandomForestClassifier
+Accuracy: 40.6655%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=45)
+Classifier: RandomForestClassifier
+Accuracy: 38.7741%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=46)
+Classifier: RandomForestClassifier
+Accuracy: 37.7933%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=47)
+Classifier: RandomForestClassifier
+Accuracy: 37.5482%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=48)
+Classifier: RandomForestClassifier
+Accuracy: 37.6182%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=49)
+Classifier: RandomForestClassifier
+Accuracy: 37.8984%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: RandomForestClassifier
+Accuracy: 38.1436%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=51)
+Classifier: RandomForestClassifier
+Accuracy: 34.5709%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=52)
+Classifier: RandomForestClassifier
+Accuracy: 34.7811%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=53)
+Classifier: RandomForestClassifier
+Accuracy: 34.4658%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=54)
+Classifier: RandomForestClassifier
+Accuracy: 34.5359%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=55)
+Classifier: RandomForestClassifier
+Accuracy: 34.1156%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=56)
+Classifier: RandomForestClassifier
+Accuracy: 35.1313%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=57)
+Classifier: RandomForestClassifier
+Accuracy: 33.9755%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=58)
+Classifier: RandomForestClassifier
+Accuracy: 33.4851%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=59)
+Classifier: RandomForestClassifier
+Accuracy: 32.8897%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=60)
+Classifier: RandomForestClassifier
+Accuracy: 31.6287%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=61)
+Classifier: RandomForestClassifier
+Accuracy: 33.5552%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=62)
+Classifier: RandomForestClassifier
+Accuracy: 32.0140%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=63)
+Classifier: RandomForestClassifier
+Accuracy: 30.8932%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=64)
+Classifier: RandomForestClassifier
+Accuracy: 32.3292%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=65)
+Classifier: RandomForestClassifier
+Accuracy: 32.0841%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=66)
+Classifier: RandomForestClassifier
+Accuracy: 32.2592%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=67)
+Classifier: RandomForestClassifier
+Accuracy: 32.1891%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=68)
+Classifier: RandomForestClassifier
+Accuracy: 32.2942%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=69)
+Classifier: RandomForestClassifier
+Accuracy: 31.6637%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=70)
+Classifier: RandomForestClassifier
+Accuracy: 31.0333%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=71)
+Classifier: RandomForestClassifier
+Accuracy: 31.3485%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=72)
+Classifier: RandomForestClassifier
+Accuracy: 30.2627%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=73)
+Classifier: RandomForestClassifier
+Accuracy: 32.4343%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=74)
+Classifier: RandomForestClassifier
+Accuracy: 31.4536%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=75)
+Classifier: RandomForestClassifier
+Accuracy: 31.3135%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=76)
+Classifier: RandomForestClassifier
+Accuracy: 31.4536%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=77)
+Classifier: RandomForestClassifier
+Accuracy: 31.1033%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=78)
+Classifier: RandomForestClassifier
+Accuracy: 31.9790%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=79)
+Classifier: RandomForestClassifier
+Accuracy: 31.2785%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=80)
+Classifier: RandomForestClassifier
+Accuracy: 31.5937%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=10)
+Classifier: SVC
+Accuracy: 6.3047%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=11)
+Classifier: SVC
+Accuracy: 6.3047%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=12)
+Classifier: SVC
+Accuracy: 13.7653%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=13)
+Classifier: SVC
+Accuracy: 13.6953%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=14)
+Classifier: SVC
+Accuracy: 13.6252%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=15)
+Classifier: SVC
+Accuracy: 13.5902%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=16)
+Classifier: SVC
+Accuracy: 13.6602%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=17)
+Classifier: SVC
+Accuracy: 15.5166%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=18)
+Classifier: SVC
+Accuracy: 23.1173%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=19)
+Classifier: SVC
+Accuracy: 26.1996%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=20)
+Classifier: SVC
+Accuracy: 26.8651%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=21)
+Classifier: SVC
+Accuracy: 27.6708%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=22)
+Classifier: SVC
+Accuracy: 33.2750%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=23)
+Classifier: SVC
+Accuracy: 33.6252%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=24)
+Classifier: SVC
+Accuracy: 34.2907%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=25)
+Classifier: SVC
+Accuracy: 33.5552%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=26)
+Classifier: SVC
+Accuracy: 33.4151%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=27)
+Classifier: SVC
+Accuracy: 33.1699%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=28)
+Classifier: SVC
+Accuracy: 33.1699%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=29)
+Classifier: SVC
+Accuracy: 33.0998%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=30)
+Classifier: SVC
+Accuracy: 33.9755%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=31)
+Classifier: SVC
+Accuracy: 37.4431%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=32)
+Classifier: SVC
+Accuracy: 37.5482%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=33)
+Classifier: SVC
+Accuracy: 39.8949%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=34)
+Classifier: SVC
+Accuracy: 39.8249%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=35)
+Classifier: SVC
+Accuracy: 40.1051%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=36)
+Classifier: SVC
+Accuracy: 40.8406%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=37)
+Classifier: SVC
+Accuracy: 40.4203%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=38)
+Classifier: SVC
+Accuracy: 40.4553%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=39)
+Classifier: SVC
+Accuracy: 40.6655%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=40)
+Classifier: SVC
+Accuracy: 40.4553%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=41)
+Classifier: SVC
+Accuracy: 41.6112%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=42)
+Classifier: SVC
+Accuracy: 40.9807%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=43)
+Classifier: SVC
+Accuracy: 41.4361%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=44)
+Classifier: SVC
+Accuracy: 41.3660%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=45)
+Classifier: SVC
+Accuracy: 40.8757%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=46)
+Classifier: SVC
+Accuracy: 40.5954%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=47)
+Classifier: SVC
+Accuracy: 40.7005%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=48)
+Classifier: SVC
+Accuracy: 43.0823%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=49)
+Classifier: SVC
+Accuracy: 43.2925%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: SVC
+Accuracy: 43.4676%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=51)
+Classifier: SVC
+Accuracy: 42.9772%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=52)
+Classifier: SVC
+Accuracy: 43.3975%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=53)
+Classifier: SVC
+Accuracy: 43.3625%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=54)
+Classifier: SVC
+Accuracy: 43.4676%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=55)
+Classifier: SVC
+Accuracy: 43.8879%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=56)
+Classifier: SVC
+Accuracy: 43.8179%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=57)
+Classifier: SVC
+Accuracy: 43.5026%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=58)
+Classifier: SVC
+Accuracy: 44.2382%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=59)
+Classifier: SVC
+Accuracy: 43.8179%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=60)
+Classifier: SVC
+Accuracy: 43.6077%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=61)
+Classifier: SVC
+Accuracy: 43.6427%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=62)
+Classifier: SVC
+Accuracy: 43.7478%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=63)
+Classifier: SVC
+Accuracy: 43.9930%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=64)
+Classifier: SVC
+Accuracy: 43.3275%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=65)
+Classifier: SVC
+Accuracy: 44.0981%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=66)
+Classifier: SVC
+Accuracy: 43.7828%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=67)
+Classifier: SVC
+Accuracy: 44.0280%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=68)
+Classifier: SVC
+Accuracy: 43.9580%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=69)
+Classifier: SVC
+Accuracy: 44.6585%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=70)
+Classifier: SVC
+Accuracy: 45.0788%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=71)
+Classifier: SVC
+Accuracy: 44.7986%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=72)
+Classifier: SVC
+Accuracy: 45.9194%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=73)
+Classifier: SVC
+Accuracy: 47.0753%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=74)
+Classifier: SVC
+Accuracy: 47.4606%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=75)
+Classifier: SVC
+Accuracy: 47.2504%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=76)
+Classifier: SVC
+Accuracy: 46.9702%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=77)
+Classifier: SVC
+Accuracy: 47.1804%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=78)
+Classifier: SVC
+Accuracy: 47.9860%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=79)
+Classifier: SVC
+Accuracy: 48.4413%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=80)
+Classifier: SVC
+Accuracy: 48.5114%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=10) + TSNE
+Classifier: SVC
+Accuracy: 12.7496%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=11) + TSNE
+Classifier: SVC
+Accuracy: 16.3222%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=12) + TSNE
+Classifier: SVC
+Accuracy: 18.1786%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=13) + TSNE
+Classifier: SVC
+Accuracy: 18.5989%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=14) + TSNE
+Classifier: SVC
+Accuracy: 21.2259%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=15) + TSNE
+Classifier: SVC
+Accuracy: 22.6270%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=16) + TSNE
+Classifier: SVC
+Accuracy: 29.9475%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=17) + TSNE
+Classifier: SVC
+Accuracy: 35.6567%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=18) + TSNE
+Classifier: SVC
+Accuracy: 40.2452%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=19) + TSNE
+Classifier: SVC
+Accuracy: 38.6340%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=20) + TSNE
+Classifier: SVC
+Accuracy: 45.1489%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=21) + TSNE
+Classifier: SVC
+Accuracy: 44.8687%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=22) + TSNE
+Classifier: SVC
+Accuracy: 45.8144%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=23) + TSNE
+Classifier: SVC
+Accuracy: 46.5849%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=24) + TSNE
+Classifier: SVC
+Accuracy: 45.2890%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=25) + TSNE
+Classifier: SVC
+Accuracy: 48.2662%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=26) + TSNE
+Classifier: SVC
+Accuracy: 43.8179%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=27) + TSNE
+Classifier: SVC
+Accuracy: 45.8844%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=28) + TSNE
+Classifier: SVC
+Accuracy: 43.2925%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=29) + TSNE
+Classifier: SVC
+Accuracy: 42.9072%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=30) + TSNE
+Classifier: SVC
+Accuracy: 45.9194%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=31) + TSNE
+Classifier: SVC
+Accuracy: 39.3695%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=32) + TSNE
+Classifier: SVC
+Accuracy: 43.9229%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=33) + TSNE
+Classifier: SVC
+Accuracy: 48.8616%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=34) + TSNE
+Classifier: SVC
+Accuracy: 38.1436%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=35) + TSNE
+Classifier: SVC
+Accuracy: 45.9545%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=36) + TSNE
+Classifier: SVC
+Accuracy: 37.1979%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=37) + TSNE
+Classifier: SVC
+Accuracy: 34.7461%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=38) + TSNE
+Classifier: SVC
+Accuracy: 34.5709%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=39) + TSNE
+Classifier: SVC
+Accuracy: 48.4413%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=40) + TSNE
+Classifier: SVC
+Accuracy: 45.5342%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=41) + TSNE
+Classifier: SVC
+Accuracy: 33.3450%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=42) + TSNE
+Classifier: SVC
+Accuracy: 28.1261%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=43) + TSNE
+Classifier: SVC
+Accuracy: 33.2399%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=44) + TSNE
+Classifier: SVC
+Accuracy: 25.5692%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=45) + TSNE
+Classifier: SVC
+Accuracy: 36.5324%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=46) + TSNE
+Classifier: SVC
+Accuracy: 28.6865%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=47) + TSNE
+Classifier: SVC
+Accuracy: 35.2014%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=48) + TSNE
+Classifier: SVC
+Accuracy: 34.3608%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=49) + TSNE
+Classifier: SVC
+Accuracy: 33.8704%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50) + TSNE
+Classifier: SVC
+Accuracy: 31.4886%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=51) + TSNE
+Classifier: SVC
+Accuracy: 23.5727%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=52) + TSNE
+Classifier: SVC
+Accuracy: 30.4729%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=53) + TSNE
+Classifier: SVC
+Accuracy: 23.8529%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=54) + TSNE
+Classifier: SVC
+Accuracy: 31.8039%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=55) + TSNE
+Classifier: SVC
+Accuracy: 33.2750%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=56) + TSNE
+Classifier: SVC
+Accuracy: 30.9982%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=57) + TSNE
+Classifier: SVC
+Accuracy: 35.6567%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=58) + TSNE
+Classifier: SVC
+Accuracy: 40.4203%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=59) + TSNE
+Classifier: SVC
+Accuracy: 46.1996%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=60) + TSNE
+Classifier: SVC
+Accuracy: 32.3643%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=61) + TSNE
+Classifier: SVC
+Accuracy: 27.1804%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=62) + TSNE
+Classifier: SVC
+Accuracy: 27.6007%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=63) + TSNE
+Classifier: SVC
+Accuracy: 32.1541%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=64) + TSNE
+Classifier: SVC
+Accuracy: 31.9440%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=65) + TSNE
+Classifier: SVC
+Accuracy: 34.2557%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=66) + TSNE
+Classifier: SVC
+Accuracy: 26.4448%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=67) + TSNE
+Classifier: SVC
+Accuracy: 31.3835%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=68) + TSNE
+Classifier: SVC
+Accuracy: 28.4063%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=69) + TSNE
+Classifier: SVC
+Accuracy: 28.8616%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=70) + TSNE
+Classifier: SVC
+Accuracy: 26.4098%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=71) + TSNE
+Classifier: SVC
+Accuracy: 37.3030%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=72) + TSNE
+Classifier: SVC
+Accuracy: 35.2364%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=73) + TSNE
+Classifier: SVC
+Accuracy: 28.7215%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=74) + TSNE
+Classifier: SVC
+Accuracy: 29.9475%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=75) + TSNE
+Classifier: SVC
+Accuracy: 31.1033%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=76) + TSNE
+Classifier: SVC
+Accuracy: 38.0736%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=77) + TSNE
+Classifier: SVC
+Accuracy: 32.2592%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=78) + TSNE
+Classifier: SVC
+Accuracy: 30.8231%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=79) + TSNE
+Classifier: SVC
+Accuracy: 33.7653%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=80) + TSNE
+Classifier: SVC
+Accuracy: 26.0595%
+-------------------------------------------------------------------

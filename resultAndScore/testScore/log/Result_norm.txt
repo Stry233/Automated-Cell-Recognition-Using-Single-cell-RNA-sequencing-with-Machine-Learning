@@ -1,0 +1,12 @@
+Dimension Reduction: PCA(n=36)
+Classifier: RandomForestClassifier
+Accuracy: 33.8004%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=40)
+Classifier: RandomForestClassifier
+Accuracy: 34.0105%
+-------------------------------------------------------------------
+Dimension Reduction: PCA(n=50)
+Classifier: SVC
+Accuracy: 29.0368%
+-------------------------------------------------------------------

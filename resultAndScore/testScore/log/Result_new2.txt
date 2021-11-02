@@ -1,0 +1,36 @@
+Dimension Reduction: AutoEncoder(n=40)
+Classifier: RandomForest
+Accuracy: 33.5552%
+-------------------------------------------------------------------
+Dimension Reduction: AutoEncoder(n=40)
+Classifier: RandomForest
+Accuracy: 10.3678%
+-------------------------------------------------------------------
+Dimension Reduction: AutoEncoder(n=100)
+Classifier: RandomForest
+Accuracy: 11.3835%
+-------------------------------------------------------------------
+Dimension Reduction: AutoEncoder(n=100)
+Classifier: RandomForest
+Accuracy: 34.4658%
+-------------------------------------------------------------------
+Dimension Reduction: AutoEncoder(n=2)
+Classifier: RandomForest
+Accuracy: 15.1313%
+-------------------------------------------------------------------
+Dimension Reduction: AutoEncoder(n=3)
+Classifier: RandomForest
+Accuracy: 20.6655%
+-------------------------------------------------------------------
+Dimension Reduction: AutoEncoder(n=36)
+Classifier: RandomForest
+Accuracy: 12.2942%
+-------------------------------------------------------------------
+Dimension Reduction: AutoEncoder(n=50)
+Classifier: RandomForest
+Accuracy: 36.4273%
+-------------------------------------------------------------------
+Dimension Reduction: AutoEncoder(n=50)
+Classifier: SVM
+Accuracy: 31.3835%
+-------------------------------------------------------------------
