@@ -31,8 +31,6 @@ This project(with thesis published soon) investigates and summarizes the superio
 <span id="nav-2"></span>
 
 ### Background
-
-<!-- Fill in the project creation background here -->
 Although scRNA-seq technology has gained further capability to capture differential information at the cellular level compared to earlier transcriptome analysis methods including bulk RNA-seq, the cross-cellular technical errors arising from its data acquisition phase and other limitations provide challenges for researchers to maintain a balance between data pre-processing and information retention. Based on this, several relatively mature schemes including t-SNE, PCA, and multiple algorithm combinations on data dimension reduction was explored and tested in this report, and evaluated the accuracy obtained by machine-learning-based classifiers for cell classification tasks as a base metric for comprehensive comparison and evaluation.
 <span id="nav-2-1"></span>
 
