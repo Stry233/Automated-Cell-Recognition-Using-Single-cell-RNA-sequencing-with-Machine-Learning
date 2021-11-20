@@ -34,6 +34,16 @@ This project(with thesis published soon) investigates and summarizes the superio
 Although scRNA-seq technology has gained further capability to capture differential information at the cellular level compared to earlier transcriptome analysis methods including bulk RNA-seq, the cross-cellular technical errors arising from its data acquisition phase and other limitations provide challenges for researchers to maintain a balance between data pre-processing and information retention. Based on this, several relatively mature schemes including t-SNE, PCA, and multiple algorithm combinations on data dimension reduction was explored and tested in this report, and evaluated the accuracy obtained by machine-learning-based classifiers for cell classification tasks as a base metric for comprehensive comparison and evaluation.
 <span id="nav-2-1"></span>
 
+
+### Pipeline
+![image](https://user-images.githubusercontent.com/31975605/142729963-4662199d-72cf-472d-841e-65979fb95752.png)
+This is the pipeline for large-scale, cell identification task from the beginning of raw data to the final classification.
+a. Labels + Reads Per Kilobase per Million mapped reads. b. Multiple dimension reduction methods with multiple dimensions applied. c. The specific implementation principle of the PCA + t-SNE combination algorithm. d. Visualization in both 2 & 3 dimensions and both with & without labels. e. Multiple classifiers with multiple parameters applied
+
+### Dataset
+The reprocessed dataset that supports the conclusion of this paper are publicly available online at https://scquery.cs.cmu.edu/processed_data/.
+
+
 ## Graphics
 ![avatar](https://raw.githubusercontent.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning/main/visualization/AE2DVIS.JPG)
 ![avatar](https://raw.githubusercontent.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning/main/visualization/PCATSNE2D_LABEL.JPG)
@@ -52,7 +62,6 @@ Although scRNA-seq technology has gained further capability to capture different
 <span id="nav-4"></span>
 
 ## Special Thanks
-<!-- Fill in the list of special thanks here, which can be anything or a person. -->
 This research was undertaken as part of the CIS - Introduction to Machine Learning "Our Body" Project. Thanks to Prof. Ziv Bar-Joseph for his guidance and instruction in dataset pre-processing and paper refinement.
 <span id="nav-5"></span>
 
