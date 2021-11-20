@@ -14,6 +14,8 @@ This project(with thesis published soon) investigates and summarizes the superio
 - [Table of Contents](#nav-1)
 - [Introductions](#nav-2)
   - [Background](#nav-2-1)
+  - [Pipeline](#nav-2-2)
+  - [Dataset](#nav-2-3)
 - [Graphics](#nav-3)
 - [Features](#nav-4)
 - [Contributors](#nav-5)
@@ -40,10 +42,11 @@ Although scRNA-seq technology has gained further capability to capture different
 
 This is the pipeline for large-scale, cell identification task from the beginning of raw data to the final classification.
 a. Labels + Reads Per Kilobase per Million mapped reads. b. Multiple dimension reduction methods with multiple dimensions applied. c. The specific implementation principle of the PCA + t-SNE combination algorithm. d. Visualization in both 2 & 3 dimensions and both with & without labels. e. Multiple classifiers with multiple parameters applied
+<span id="nav-2-2"></span>
 
 ### Dataset
 The reprocessed dataset that supports the conclusion of this paper are publicly available online at https://scquery.cs.cmu.edu/processed_data/.
-
+<span id="nav-2-3"></span>
 
 ## Graphics
 ![avatar](https://raw.githubusercontent.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning/main/visualization/AE2DVIS.JPG)
