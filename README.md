@@ -4,7 +4,7 @@
   <a href="https://github.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning"><img alt="Stars" src="https://img.shields.io/github/stars/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning?style=plastic"/></a>
   <a href="https://github.com/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning"><img alt="Language Use" src="https://img.shields.io/github/languages/count/Stry233/Automated-Cell-Recognition-Using-Single-cell-RNA-sequencing-with-Machine-Learning?style=plastic"/></a>
 </p>
-[This project](https://doi.org/10.1145/3512452.3512455) investigates and summarizes the superiority and limitations of different dimensionality reduction schemes as well as classification methods in specific single-cell RNA sequencing (scRNA-seq) data sets. 
+ **[This project](https://doi.org/10.1145/3512452.3512455)** investigates and summarizes the superiority and limitations of different dimensionality reduction schemes as well as classification methods in specific single-cell RNA sequencing (scRNA-seq) data sets. 
 
 ## Table of Contents
 
