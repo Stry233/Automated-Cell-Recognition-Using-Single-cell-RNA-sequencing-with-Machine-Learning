@@ -39,7 +39,7 @@ Although scRNA-seq technology has gained further capability to capture different
 ![pipeline](https://user-images.githubusercontent.com/31975605/142730036-ff44b376-2a56-4d84-b76e-c5f3371fff47.png)<br>
 
 This is the pipeline for large-scale, cell identification task from the beginning of raw data to the final classification.
-a. Labels + Reads Per Kilobase per Million mapped reads. b. Multiple dimension reduction methods with multiple dimensions applied. c. The specific implementation principle of the PCA + t-SNE combination algorithm. d. Visualization in both 2 & 3 dimensions and both with & without labels. e. Multiple classifiers with multiple parameters applied
+**a.** Labels + Reads Per Kilobase per Million mapped reads. **b.** Multiple dimension reduction methods with multiple dimensions applied. **c.** The specific implementation principle of the PCA + t-SNE combination algorithm. **d.** Visualization in both 2 & 3 dimensions and both with & without labels. **e.** Multiple classifiers with multiple parameters applied
 <span id="nav-2-2"></span>
 
 ### Dataset
